@@ -18,7 +18,7 @@ class MScape {
 			self::$database = "MScape";
 		} else {
 			self::$username = "be1st_mscape";
-			self::$password = "-LKg#@C#TdSJ";
+			self::$password = "";
 			self::$database = "be1st_mscape";
 		}
 		
